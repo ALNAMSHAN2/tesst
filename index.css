@@ -95,7 +95,7 @@ body
    top: 100px;
    width: 173px;
    height: 120px;
-   z-index: 4;
+   z-index: 5;
 }
 #wb_Image4
 {
@@ -114,7 +114,7 @@ body
    height: 100%;
    float: left;
    display: block;
-   z-index: 5;
+   z-index: 4;
 }
 @media only screen and (min-width: 480px) and (max-width: 599px)
 {
@@ -149,7 +149,7 @@ body
 }
 #home_Container
 {
-   width: 320px;
+   width: 480px;
 }
 #wb_Image1
 {
@@ -180,8 +180,8 @@ body
 }
 #wb_Image3
 {
-   left: 448px;
-   top: 90px;
+   left: 400px;
+   top: 80px;
    width: 143px;
    height: 77px;
    visibility: visible;
