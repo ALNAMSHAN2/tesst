@@ -69,7 +69,7 @@ body
    top: 460px;
    width: 225px;
    height: 39px;
-   z-index: 1;
+   z-index: 3;
 }
 #wb_Image2
 {
@@ -78,7 +78,7 @@ body
    top: 420px;
    width: 263px;
    height: 40px;
-   z-index: 3;
+   z-index: 2;
 }
 #home_Container
 {
@@ -91,10 +91,10 @@ body
 #wb_Image3
 {
    position: absolute;
-   left: 432px;
-   top: 90px;
-   width: 143px;
-   height: 77px;
+   left: 940px;
+   top: 100px;
+   width: 173px;
+   height: 120px;
    z-index: 5;
 }
 #wb_Image4
@@ -104,7 +104,7 @@ body
    top: 499px;
    width: 25px;
    height: 20px;
-   z-index: 2;
+   z-index: 1;
 }
 #home
 {
@@ -149,12 +149,12 @@ body
 }
 #home_Container
 {
-   width: 480px;
+   width: 330px;
 }
 #wb_Image1
 {
-   left: 189px;
-   top: 430px;
+   left: 86px;
+   top: 431px;
    width: 225px;
    height: 39px;
    visibility: visible;
@@ -162,8 +162,8 @@ body
 }
 #wb_Image4
 {
-   left: 289px;
-   top: 469px;
+   left: 186px;
+   top: 470px;
    width: 25px;
    height: 20px;
    visibility: visible;
@@ -171,8 +171,8 @@ body
 }
 #wb_Image2
 {
-   left: 170px;
-   top: 390px;
+   left: 67px;
+   top: 391px;
    width: 263px;
    height: 40px;
    visibility: visible;
@@ -180,8 +180,8 @@ body
 }
 #wb_Image3
 {
-   left: 337px;
-   top: 90px;
+   left: 250px;
+   top: 100px;
    width: 143px;
    height: 77px;
    visibility: visible;
